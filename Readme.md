@@ -1,9 +1,9 @@
 Flying Spaghetti Physics Monitor
 ================================
 
-General Doc: https://docs.google.com/document/d/1P-B68UFshZrPXSNdKPXAIriUviSG9R4SJWK6uDBBBMg/edit?hl=en&authkey=COrAlIUL&pli=1#
-Pivotal Tracker: https://www.pivotaltracker.com/projects/270441
-Github page: https://github.com/daniel-cloudspace/FSPM
+<a href="https://docs.google.com/document/d/1P-B68UFshZrPXSNdKPXAIriUviSG9R4SJWK6uDBBBMg/edit?hl=en&authkey=COrAlIUL&pli=1#">Google Doc</a>
+<a href="https://www.pivotaltracker.com/projects/270441">Pivotal Tracker</a>
+<a href="https://github.com/daniel-cloudspace/FSPM">Github page</a>
 
 This repo will contain the firmware, software, and schematics for making an open source competitor to overpriced physics sensor suppliers for schools. The end goal is to produce a device which costs between $10 and $50, including sensors. 
 
